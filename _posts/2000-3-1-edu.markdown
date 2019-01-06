@@ -2,13 +2,13 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Bachelor's in Biological Sciences
+title: Bachelor's in Statistics
 description: |
 ---
 
-* __2005 - 2010__
-* Federal University of Pelotas, Pelotas, Brazil
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
+* __2006 - 2010__
+* Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+* [Um estudo comparativo de estimadores de regressões não-paramétricas aditivas: Performance em Amostras Finitas](https://lume.ufrgs.br/bitstream/handle/10183/24871/000749685.pdf?sequence=1&isAllowed=y) (*A comparative study of non-parametric additive regression estimators: Finite Sample Performance*)
+* Advisor: Dr. Fernando Augusto Boeira Sabino da Silva
 
 

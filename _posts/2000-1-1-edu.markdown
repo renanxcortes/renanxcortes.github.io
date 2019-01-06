@@ -2,7 +2,7 @@
 layout: default
 img: phd.JPG
 category: Education
-title: PhD in Economics
+title: PhD in Economics (Defense with Honorable Mention)
 description: 2015-2017
 ---
 
