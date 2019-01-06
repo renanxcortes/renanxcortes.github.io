@@ -7,7 +7,8 @@ description: |
 ---
 
 
-* __2017 – Current__
+* __2018 – Current__
 * University of California, Riverside
-* Position: ​Postdoctoral Researcher under Dr. Thomas Girke
-* Activities: ​Current research focuses on the development of computational data analysis methods for genome biology.
+* Position: ​Postdoctoral Scholar
+* Advisor: Dr. Serge Rey
+* Activities: ​current research focuses on software development using Python for spatial data science
