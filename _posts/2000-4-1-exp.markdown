@@ -1,6 +1,6 @@
 ---
 layout: default
-img: code.jpg
+img: ucr.jpg
 category: Experiences
 title: "Postdoctoral Researcher"
 description: |
