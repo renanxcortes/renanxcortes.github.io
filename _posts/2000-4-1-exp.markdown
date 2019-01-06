@@ -2,13 +2,12 @@
 layout: default
 img: ucr.jpg
 category: Experiences
-title: "Postdoctoral Researcher"
+title: "Postdoctoral Scholar"
 description: |
 ---
 
 
 * __2018 – Current__
 * University of California, Riverside
-* Position: ​Postdoctoral Scholar
 * Advisor: Dr. Serge Rey
 * Activities: ​current research focuses on software development using Python for spatial data science
