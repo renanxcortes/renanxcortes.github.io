@@ -16,7 +16,7 @@ description: |
 ### In press
 - CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2019.
 
-### Complete
+### Complete List
 <!---
 - [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
 -->
