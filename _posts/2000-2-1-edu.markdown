@@ -2,13 +2,13 @@
 layout: default
 img: Master.JPG
 category: Education
-title: Master's in Plant Physiology
-description: |
+title: Master's in Statistics
+description: 2012-2013
 ---
 
-* __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
-* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
-* Scholarship from: CNPq
+* __2012 - 2013__
+* Federal University of Minas Gerais, Belo Horizonte, Brazil
+* [Estimando modelos dinâmicos utilizando o INLA para Campos Aleatórios Markovianos Não Gaussianos](http://www.est.ufmg.br/portal/arquivos/mestrado/dissertacoes/dissertacao_renan_xavier_cortes.pdf) (*Fitting dynamic models using INLA for Non-Gaussian Markovian Random Fields*)
+* Advisor: Dr. Marcos Oliveira Prates
+* Scholarship from: CAPES
 
