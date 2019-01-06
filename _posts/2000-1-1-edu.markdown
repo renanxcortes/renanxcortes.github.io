@@ -2,13 +2,13 @@
 layout: default
 img: phd.JPG
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: PhD in Economics
+description: 2015-2017
 ---
 
-* __2012 - 2016__
-* Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-* The global study of differentially regulated transcriptome in the response and tolerance pathway to the drought stress in castor bean (*Ricinus communis*)
-* Advisor: Dr. Gilberto Sachetto-Martins
-* Scholarship from: CNPq and FAPERJ
+* __2015 - 2017__
+* Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil
+* [Ensaios em Criminalidade no Rio Grande do Sul](http://tede2.pucrs.br/tede2/handle/tede/7797)
+* Advisor: Dr. Adelar Fochezzato
+* Scholarship from: CAPES
  
