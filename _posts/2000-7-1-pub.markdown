@@ -9,7 +9,9 @@ description: |
 <!---
 - [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
 -->
+
 - [GoogleScholar](https://scholar.google.com/citations?hl=pt-BR&view_op=list_works&gmla=AJsN-F4UQUWjG7V5a4y8BroWMRUnEqv41mTzuosIVng7Spx0d7hyfK-U1O9NHYEJziQpj2C-t_7DpvcPMxiQtzx9L9lX5j_5H8tlrhrUykCf4j9CuzA9dv0&user=gNOcE4AAAAAJ=en)
+
 <!---
 - [Complete list of publications](img/publication.pdf)
 -->
