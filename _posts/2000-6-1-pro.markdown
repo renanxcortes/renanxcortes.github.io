@@ -1,6 +1,6 @@
 ---
 layout: default
-img: seg.jpg
+img: seg.png
 category: Projects
 title: "PySAL segregation module"
 description: |
