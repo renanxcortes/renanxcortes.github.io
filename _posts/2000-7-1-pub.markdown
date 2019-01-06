@@ -6,6 +6,17 @@ title: "List of Publications"
 description: |
 ---
 
+### Complete List
+<!---
+- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
+-->
+
+- [GoogleScholar](https://scholar.google.com/citations?user=gNOcE4AAAAAJ&hl=en)
+
+<!---
+- [Complete list of publications](img/publication.pdf)
+-->
+
 ### Main papers
 - Colombo, J. A., Cortes, R. X., Cruz, F. I., and Paese, L. H. (2018). Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy. *International Journal of Economics and Finance*, 10(5), 14.
 
@@ -18,13 +29,3 @@ description: |
 ### In press
 - CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2019.
 
-### Complete List
-<!---
-- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
--->
-
-- [GoogleScholar](https://scholar.google.com/citations?user=gNOcE4AAAAAJ&hl=en)
-
-<!---
-- [Complete list of publications](img/publication.pdf)
--->
