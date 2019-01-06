@@ -6,6 +6,17 @@ title: "List of Publications"
 description: |
 ---
 
+# Main papers
+- Colombo, Jéfferson A., et al. "Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy." *International Journal of Economics and Finance* 10.5 (2018): 14.
+
+- Cortes, Renan Xavier, Adelar Fochezatto, and Paulo de Andrade Jacinto. "Crimes nos municípios do Rio Grande do Sul: análise a partir de um índice geral de criminalidade." *Estudos Econômicos (São Paulo)* 48.3 (2018): 451-487.
+
+= Cortes, R. X., et al. "Inference on dynamic models for non-Gaussian random fields using INLA." *Brazilian journal of probability and statistics* 31.1 (2017): 1-23.
+
+# In press
+- CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2019.
+
+# Complete
 <!---
 - [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
 -->
