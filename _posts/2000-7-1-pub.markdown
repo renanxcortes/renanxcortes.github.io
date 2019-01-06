@@ -11,7 +11,7 @@ description: |
 
 - Cortes, Renan Xavier, Adelar Fochezatto, and Paulo de Andrade Jacinto. "Crimes nos municípios do Rio Grande do Sul: análise a partir de um índice geral de criminalidade." *Estudos Econômicos (São Paulo)* 48.3 (2018): 451-487.
 
-- Cortes, R. X., Martins, T. G., Prates, M. O., and Silva, B. A. (2017). Inference on dynamic models for non-Gaussian random fields using INLA. *Brazilian journal of probability and statistics*, 31(1), 1-23.
+- Cortes, R. X., Martins, T. G., Prates, M. O., and Silva, B. A. (2017). Inference on dynamic models for non-Gaussian random fields using INLA. *Brazilian Journal of Probability and Statistics*, 31(1), 1-23.
 
 - de Oliveira, Lívio Luiz Soares, and Renan Xavier Cortes. "Faith and religious attendance in Brazil." *Rationality and Society* 28.3 (2016): 320-334.
 
