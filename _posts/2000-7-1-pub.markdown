@@ -7,7 +7,7 @@ description: |
 ---
 
 ### Main papers
-- Colombo, J. A., Cortes, R. X., Cruz, F. I., & Paese, L. H. (2018). Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy. *International Journal of Economics and Finance*, 10(5), 14.
+- Colombo, J. A., Cortes, R. X., Cruz, F. I., and Paese, L. H. (2018). Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy. *International Journal of Economics and Finance*, 10(5), 14.
 
 - Cortes, Renan Xavier, Adelar Fochezatto, and Paulo de Andrade Jacinto. "Crimes nos municípios do Rio Grande do Sul: análise a partir de um índice geral de criminalidade." *Estudos Econômicos (São Paulo)* 48.3 (2018): 451-487.
 
