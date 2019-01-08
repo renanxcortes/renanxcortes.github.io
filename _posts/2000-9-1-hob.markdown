@@ -1,11 +1,11 @@
 ---
 layout: default
-img: visualizafee.png
+img: guitar.jpg
 category: Hobbies
-title: "Music and Sports"
+title: "Music & Sports"
 description: |
 ---
 
-This work is a portal of many Shiny applications using public data of the state of Rio Grande do Sul (RS), Brazil. There are applications using crime data, demographic data, socioeconomic data (idese), quarterly GDP data and economics data related to the Business Cycle of RS.
+* In most of my leisure time, I like to spend playing guitar.
 
-For more infomation, click [here](https://github.com/renanxcortes/VisualizaFEE).
+* I also enjoy practicing basically any kind of sport. 
