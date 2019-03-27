@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phd.JPG
+img: phd_new.JPG
 category: Education
 title: PhD in Economics (Honorable Mention Earned)
 description: 2015-2017
