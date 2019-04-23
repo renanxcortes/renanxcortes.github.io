@@ -10,4 +10,4 @@ description: |
 * __2018 – Current__
 * University of California, Riverside
 * Advisor: Dr. Serge Rey
-* Activities: ​current research focuses on software development using Python for spatial data science
+* Activities: ​current research focuses on software development using Python for spatial data science.

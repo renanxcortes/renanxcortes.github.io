@@ -8,7 +8,7 @@ description: 2012-2014
 
 * __2012 - 2014__
 * Federal University of Minas Gerais, Belo Horizonte, Brazil
-* [Estimando modelos dinâmicos utilizando o INLA para Campos Aleatórios Markovianos Não Gaussianos](http://www.est.ufmg.br/portal/arquivos/mestrado/dissertacoes/dissertacao_renan_xavier_cortes.pdf) (*Fitting dynamic models using INLA for Non-Gaussian Markov Random Fields*)
+* [Estimando modelos dinâmicos utilizando o INLA para Campos Aleatórios Markovianos Não Gaussianos](http://www.est.ufmg.br/portal/arquivos/mestrado/dissertacoes/dissertacao_renan_xavier_cortes.pdf){:target="_blank"} (*Fitting dynamic models using INLA for Non-Gaussian Markov Random Fields*)
 * Advisor: Dr. Marcos Oliveira Prates
 * Scholarship from: CAPES
 
