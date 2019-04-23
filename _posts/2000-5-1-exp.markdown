@@ -11,4 +11,4 @@ description: 2018-2018
 * UniRitter University, Porto Alegre, Brazil
 * Activities: professor of Data Analysis with the R in the Data Science and Big Data postgraduation course. The course comprised a Data Science workflow (importing data, cleaning data, wrangling, data exploring, modeling and visualizing), fundamentals of the language, the tidyverse approach, best practices of the language and how to develop reports and web
 applications.
-* Teaching material can be found clicking [**here**](https://github.com/renanxcortes/data_analysis_with_R_teaching_material).
+* Teaching material can be found clicking [**here**](https://github.com/renanxcortes/data_analysis_with_R_teaching_material){:target="_blank"}.
