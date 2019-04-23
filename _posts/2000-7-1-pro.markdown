@@ -1,11 +1,11 @@
 ---
 layout: default
-img: visualizafee.png
+img: seg.png
 category: Projects
-title: "VisualizaFEE"
+title: "PySAL segregation module"
 description: |
 ---
 
-This work is a portal of many Shiny applications using public data of the state of Rio Grande do Sul (RS), Brazil. There are applications using crime data, demographic data, socioeconomic data (idese), quarterly GDP data and economics data related to the Business Cycle of RS.
+This work is a development of an open-source module in the Python Spatial Analysis Library (PySAL) for nonspatial and spatial segregation measures. In urban geography and regional planning, segregation, usually consider five dimensions in a given society such as evenness, isolation, clustering, concentration and centralization. Furthermore, it also presents a novel feature that performs inference for segregation and for comparative segregation, relying on simulations under the null hypothesis.
 
-For more infomation, click [here](https://github.com/renanxcortes/VisualizaFEE).
+For more infomation, click [here](https://github.com/renanxcortes/segregation).
