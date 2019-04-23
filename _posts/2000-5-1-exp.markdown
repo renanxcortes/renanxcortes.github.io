@@ -2,7 +2,7 @@
 layout: default
 img: uniritter_logo.png
 category: Experiences
-title: "Professor of Data Analysis with R"
+title: "Prof. of Data Analysis with R"
 description: 2018-2018
 ---
 
