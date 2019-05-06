@@ -6,11 +6,11 @@ title: "Harmonization layer of geosnap in Python"
 description: |
 ---
 
-Construction of the harmonization layer for the [**Geospatial Neighborhood Analysis in Python**](https://github.com/spatialucr/geosnap) (geosnap) package in Python. In this project, I'm working directly in different approaches to harmonize different set of variables to perform an uniform set of boundaries of any different set of divisions. The original idea of this project can be found [**here**](http://conference.scipy.org/proceedings/scipy2018/pdfs/serge_rey.pdf).
+Construction of the harmonization layer for the [**Geospatial Neighborhood Analysis in Python**](https://github.com/spatialucr/geosnap){:target="_blank"} (geosnap) package in Python. In this project, I'm working directly in different approaches to harmonize different set of variables to perform an uniform set of boundaries of any different set of divisions. The original idea of this project can be found [**here**](http://conference.scipy.org/proceedings/scipy2018/pdfs/serge_rey.pdf){:target="_blank"}.
 
-The methods can comprise areal interpolation and also auxiliary variable (such as sattelite images of the National Land Cover Dataset). For more information about these methods, you can check [**this paper**](https://www.researchgate.net/publication/5153750_Areal_Interpolation_of_Population_Counts_Using_Pre-Classified_Land_Cover_Data) and [**this R package**](https://cran.r-project.org/web/packages/areal/vignettes/areal.html).
+The methods can comprise areal interpolation and also auxiliary variable (such as sattelite images of the National Land Cover Dataset). For more information about these methods, you can check [**this paper**](https://www.researchgate.net/publication/5153750_Areal_Interpolation_of_Population_Counts_Using_Pre-Classified_Land_Cover_Data){:target="_blank"} and [**this R package**](https://cran.r-project.org/web/packages/areal/vignettes/areal.html){:target="_blank"}.
 
-In addition, we are refining these methods to be executed at scale, using [**GeoSpark**](https://github.com/DataSystemsLab/GeoSpark) and the [**optimized algorithms for raster data, such as the scanline**](https://www.researchgate.net/publication/328949782_Distributed_zonal_statistics_of_big_raster_and_vector_data).
+In addition, we are refining these methods to be executed at scale, using [**GeoSpark**](https://github.com/DataSystemsLab/GeoSpark){:target="_blank"} and the [**optimized algorithms for raster data, such as the scanline**](https://www.researchgate.net/publication/328949782_Distributed_zonal_statistics_of_big_raster_and_vector_data){:target="_blank"}.
 
 Most of this project is present in private GitHub repos. However, more details can be asked direct to me.
 
