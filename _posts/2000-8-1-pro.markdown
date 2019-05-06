@@ -12,5 +12,5 @@ The methods can comprise areal interpolation and also auxiliary variable (such a
 
 In addition, we are refining these methods to be executed at scale, using [GeoSpark](https://github.com/DataSystemsLab/GeoSpark) and the [optimized algorithms for raster data such as scanline](https://www.researchgate.net/publication/328949782_Distributed_zonal_statistics_of_big_raster_and_vector_data).
 
-Most of this project is present in private GitHub repos. However, more details of this can be asked direct to me.
+Most of this project is present in private GitHub repos. However, more details can be asked direct to me.
 
