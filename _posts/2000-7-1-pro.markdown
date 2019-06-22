@@ -8,4 +8,4 @@ description: |
 
 This work is a development of an open-source module in the Python Spatial Analysis Library (PySAL) for nonspatial and spatial segregation measures. In urban geography and regional planning, segregation, usually consider five dimensions in a given society such as evenness, isolation, clustering, concentration and centralization. Furthermore, it also presents a novel feature that performs inference for segregation and for comparative segregation, relying on simulations under the null hypothesis.
 
-For more infomation, click [**here**](https://github.com/renanxcortes/segregation){:target="_blank"}.
+For more infomation, click [**here**](https://github.com/pysal/segregation){:target="_blank"}.
