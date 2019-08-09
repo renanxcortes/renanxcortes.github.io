@@ -14,4 +14,4 @@ The functions can comprise areal interpolation and also auxiliary variable (such
 
 In addition, we are refining these methods to be executed at scale, using [**GeoSpark**](https://github.com/DataSystemsLab/GeoSpark){:target="_blank"} and [**optimized algorithms for raster data, such as the scanline**](https://www.researchgate.net/publication/328949782_Distributed_zonal_statistics_of_big_raster_and_vector_data){:target="_blank"}.
 
-For more information regarding this project check the GitHub repo [**here**](https://github.com/spatialucr/tobler).
+For more information regarding this project, click [**here**](https://github.com/spatialucr/tobler).
