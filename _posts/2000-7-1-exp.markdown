@@ -1,0 +1,12 @@
+---
+layout: default
+img: Anglo.jpg
+category: Experiences
+title: "Senior Business Analyst"
+description: 2019-Current
+---
+
+
+* __2019 – Current__
+* Anglo American, Belo Horizonte, Brazil
+* Working in Data Science projects in one of the largest mining companies of the world.
