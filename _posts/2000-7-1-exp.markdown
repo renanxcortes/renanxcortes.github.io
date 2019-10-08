@@ -1,12 +1,12 @@
 ---
 layout: default
-img: Anglo.jpg
+img: fee.png
 category: Experiences
-title: "Senior Business Analyst"
-description: 2019-Current
+title: "Researcher in Statistics"
+description: 2010-2018
 ---
 
 
-* __2019 – Current__
-* Anglo American, Belo Horizonte, Brazil
-* Working in Data Science projects in one of the largest mining companies of the world.
+* __2010 – 2018__
+* Statistics and Economics Foundation, Porto Alegre, Brazil
+* Activities: develop Shiny applications with public data, develop new methods for estimating international trade indexes, develop and estimate economic indicators, database manager, header of department for more than four years, presentations in press conferences, writing reports and participation in data-driven consultings for the state government of Rio Grande do Sul, Brazil.
