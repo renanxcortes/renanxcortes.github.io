@@ -18,6 +18,8 @@ description: |
 -->
 
 ### Main papers
+- Cortes, Renan Xavier; Rey, Sergio; Knaap, Elijah, and Wolf, Levi. An open-source framework for non-Spatial and Spatial segregation measures: the PySAL segregation module. *Journal of Computation Social Science* (Forthcoming)
+
 - Colombo, J. A., Cortes, R. X., Cruz, F. I., and Paese, L. H. (2018). Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy. *International Journal of Economics and Finance*, 10(5), 14.
 
 - Cortes, Renan Xavier, Adelar Fochezatto, and Paulo de Andrade Jacinto. "Crimes nos municípios do Rio Grande do Sul: análise a partir de um índice geral de criminalidade." *Estudos Econômicos (São Paulo)* 48.3 (2018): 451-487.
@@ -26,6 +28,5 @@ description: |
 
 - de Oliveira, Lívio Luiz Soares, and Renan Xavier Cortes. "Faith and religious attendance in Brazil." *Rationality and Society* 28.3 (2016): 320-334.
 
-### In press
-- CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2019.
+- CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2020. (Forthcoming)
 
