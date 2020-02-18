@@ -1,14 +1,13 @@
 ---
 layout: default
-img: phd_new.jpg
-category: Education
-title: PhD in Economics (Honorable Mention Earned)
-description: 2015-2017
+img: ucr.jpg
+category: Experiences
+title: "Postdoctoral Scholar"
+description: |
 ---
 
-* __2015 - 2017__
-* Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil
-* [Ensaios em Criminalidade no Rio Grande do Sul](http://tede2.pucrs.br/tede2/handle/tede/7797) (*Essays in Criminality in Rio Grande do Sul*)
-* Advisor: Dr. Adelar Fochezatto
-* Scholarship from: CAPES
- 
+
+* __2018 – 2019__
+* University of California, Riverside
+* Advisor: Dr. Serge Rey
+* Activities: research focused on software development using Python for spatial data science. One of the core developers of the Python Spatial Analysis Library (PySAL).

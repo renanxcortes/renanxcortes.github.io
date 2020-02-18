@@ -1,14 +1,14 @@
 ---
 layout: default
-img: bache.JPG
+img: Master.JPG
 category: Education
-title: Bachelor's in Statistics
-description: |
+title: Master's in Statistics
+description: 2012-2014
 ---
 
-* __2006 - 2010__
-* Federal University of Rio Grande do Sul, Porto Alegre, Brazil
-* [Um estudo comparativo de estimadores de regressões não-paramétricas aditivas: Performance em Amostras Finitas](https://lume.ufrgs.br/bitstream/handle/10183/24871/000749685.pdf?sequence=1&isAllowed=y){:target="_blank"} (*A comparative study of non-parametric additive regression estimators: Finite Sample Performance*)
-* Advisor: [Dr. Fernando Augusto Boeira Sabino da Silva](https://www.linkedin.com/in/fernando-b-sabino-da-silva-ph-d-73b05ab1/)
-
+* __2012 - 2014__
+* Federal University of Minas Gerais, Belo Horizonte, Brazil
+* [Estimando modelos dinâmicos utilizando o INLA para Campos Aleatórios Markovianos Não Gaussianos](http://www.est.ufmg.br/portal/arquivos/mestrado/dissertacoes/dissertacao_renan_xavier_cortes.pdf){:target="_blank"} (*Fitting dynamic models using INLA for Non-Gaussian Markov Random Fields*)
+* Advisor: Dr. Marcos Oliveira Prates
+* Scholarship from: CAPES
 

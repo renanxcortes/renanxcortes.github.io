@@ -1,14 +1,14 @@
 ---
 layout: default
-img: Master.JPG
+img: phd_new.jpg
 category: Education
-title: Master's in Statistics
-description: 2012-2014
+title: PhD in Economics (Honorable Mention Earned)
+description: 2015-2017
 ---
 
-* __2012 - 2014__
-* Federal University of Minas Gerais, Belo Horizonte, Brazil
-* [Estimando modelos dinâmicos utilizando o INLA para Campos Aleatórios Markovianos Não Gaussianos](http://www.est.ufmg.br/portal/arquivos/mestrado/dissertacoes/dissertacao_renan_xavier_cortes.pdf){:target="_blank"} (*Fitting dynamic models using INLA for Non-Gaussian Markov Random Fields*)
-* Advisor: Dr. Marcos Oliveira Prates
+* __2015 - 2017__
+* Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil
+* [Ensaios em Criminalidade no Rio Grande do Sul](http://tede2.pucrs.br/tede2/handle/tede/7797) (*Essays in Criminality in Rio Grande do Sul*)
+* Advisor: Dr. Adelar Fochezatto
 * Scholarship from: CAPES
-
+ 
