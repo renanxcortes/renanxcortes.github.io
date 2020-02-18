@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ucr.jpg
-category: Experiences
+category: Education
 title: "Postdoctoral Scholar"
 description: |
 ---
