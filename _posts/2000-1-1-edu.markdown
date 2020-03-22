@@ -11,3 +11,4 @@ description: |
 * University of California, Riverside
 * Advisor: Dr. Serge Rey
 * Activities: research focused on software development using Python for spatial data science. One of the core developers of the Python Spatial Analysis Library (PySAL).
+* My Postdoctoral statement can be found [**here**](https://github.com/renanxcortes/renanxcortes.github.io/blob/master/img/Renan_UCR_Postdoc_Statement.pdf){:target="_blank"}.
