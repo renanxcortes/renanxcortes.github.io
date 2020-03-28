@@ -18,9 +18,9 @@ description: |
 -->
 
 ### Main papers
-- Stefanie Lumnitz; Dani Arribas-Bell; Renan Cortes; James Gaboardi; Verena Griess; Wei Kang; Taylor Oshan; Levi Wolf; and Sergio Rey (2020). `splot` - visual analytics for spatial statistics. *Journal of Open Source Software*. 5(47). url: https://doi.org/10.21105/joss.01882. doi: 10.21105/joss.01882
+- Stefanie Lumnitz; Dani Arribas-Bell; Renan Cortes; James Gaboardi; Verena Griess; Wei Kang; Taylor Oshan; Levi Wolf; and Sergio Rey (2020). `splot` - visual analytics for spatial statistics. *Journal of Open Source Software* (2020). 5(47). url: https://doi.org/10.21105/joss.01882. doi: 10.21105/joss.01882
 
-- Cortes, Renan Xavier; Rey, Sergio; Knaap, Elijah, and Wolf, Levi. An open-source framework for non-Spatial and Spatial segregation measures: the PySAL `segregation` module. *Journal of Computation Social Science*. https://doi.org/10.1007/s42001-019-00059-3
+- Cortes, Renan Xavier; Rey, Sergio; Knaap, Elijah, and Wolf, Levi. "An open-source framework for non-spatial and spatial segregation measures: the PySAL `segregation` module. *Journal of Computational Social Science* (2019): 1-32.
 
 - Colombo, J. A., Cortes, R. X., Cruz, F. I., and Paese, L. H. (2018). Building State-Level Business Cycle Tracer Tools: Evidence from a Large Emerging Economy. *International Journal of Economics and Finance*, 10(5), 14.
 
