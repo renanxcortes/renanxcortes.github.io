@@ -6,6 +6,6 @@ title: "springerQuarantineBooksR: download all Springer books made available dur
 description: |
 ---
 
-With the Coronavirus outbreak having an unprecedented impact on education, Springer Nature launched a global program to support learning and teaching at higher education institutions worldwide. This projects is an R package that has the `download_springer_book_files` function which can be used to download all (or a subset) of these Springer book files freely available. 
+With the Coronavirus outbreak having an unprecedented impact on education, Springer Nature launched a global program to support learning and teaching at higher education institutions worldwide. This project is an R package that has the `download_springer_book_files` function which can be used to download all (or a subset) of these Springer book files freely available. 
 
 For more infomation, click [**here**](https://github.com/renanxcortes/springerQuarantineBooksR){:target="_blank"}.
