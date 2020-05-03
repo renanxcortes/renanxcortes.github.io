@@ -1,11 +1,11 @@
 ---
 layout: default
-img: seg.png
+img: springer.png
 category: Projects
-title: "PySAL segregation module"
+title: "`springerQuarantineBooksR`: download all Springer books made available during the COVID-19 quarantine"
 description: |
 ---
 
-This work is a development of an open-source module in the Python Spatial Analysis Library (PySAL) for nonspatial and spatial segregation measures. In urban geography and regional planning, segregation, usually consider five dimensions in a given society such as evenness, isolation, clustering, concentration and centralization. Furthermore, it also presents a novel feature that performs inference for segregation and for comparative segregation, relying on simulations under the null hypothesis.
+With the Coronavirus outbreak having an unprecedented impact on education, Springer Nature launched a global program to support learning and teaching at higher education institutions worldwide. This projects is an R package that has the `download_springer_book_files` function which can be used to download all (or a subset) of these Springer book files freely available. 
 
-For more infomation, click [**here**](https://github.com/pysal/segregation){:target="_blank"}.
+For more infomation, click [**here**](https://github.com/renanxcortes/springerQuarantineBooksR){:target="_blank"}.
