@@ -12,6 +12,6 @@ description: 2019-Current
 * Working in the Data Science Corporate team in the financial sector.
 * Technologies used:
     + Queries on-premise and in the Data Lake (Hive, Presto, Hue, Spark, SQL Server, Jupyter, PySpark)
-    + R, Rmarkdown, Shiny, tidyverse, htmlwidgets, ShinyProxy with LDAP authentication
+    + R, Rmarkdown, Shiny, tidyverse, htmlwidgets, ShinyProxy with LDAP authentication, H2O
 	+ Python, pandas, pyautogui, kafka-python
     + Docker, Amazon EC2, GitLab, Jenkins, Kubernetes, Rancher
