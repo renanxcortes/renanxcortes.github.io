@@ -2,7 +2,7 @@
 layout: default
 img: Agi.jpg
 category: Experiences
-title: "Data Science Analyst"
+title: "Senior Data Science Analyst"
 description: 2019-Current
 ---
 
