@@ -1,12 +1,14 @@
 ---
 layout: default
-img: fee.png
+img: uniritter_logo.png
 category: Experiences
-title: "Researcher in Statistics"
-description: 2010-2018
+title: "Prof. of Data Analysis with R"
+description: 2018-2018
 ---
 
 
-* __2010 – 2018__
-* Statistics and Economics Foundation, Porto Alegre, Brazil
-* Activities: develop Shiny applications with public data, develop new methods for estimating international trade indexes, develop and estimate economic indicators, database manager, header of department for more than four years, presentations in press conferences, writing reports and participation in data-driven consultings for the state government of Rio Grande do Sul, Brazil.
+* __2018 – 2018__
+* UniRitter University, Porto Alegre, Brazil
+* Activities: professor of Data Analysis with the R in the Data Science and Big Data postgraduation course. The course comprised a Data Science workflow (importing data, cleaning data, wrangling, data exploring, modeling and visualizing), fundamentals of the language, the tidyverse approach, best practices of the language and how to develop reports and web
+applications.
+* Teaching material can be found clicking [**here**](https://github.com/renanxcortes/data_analysis_with_R_teaching_material){:target="_blank"}.
