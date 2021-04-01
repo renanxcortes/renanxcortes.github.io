@@ -2,7 +2,7 @@
 layout: default
 img: Agi.jpg
 category: Experiences
-title: "Data Science Specialist"
+title: "Data Science Corporate Leader"
 description: 2019-Current
 ---
 
