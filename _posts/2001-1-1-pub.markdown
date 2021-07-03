@@ -18,6 +18,8 @@ description: |
 -->
 
 ### Main papers
+- Sergio J. Rey, Luc Anselin, Pedro Amaral, Dani Arribas-Bel, Renan Xavier Cortes, James David Gaboardi, Wei Kang, Elijah Knaap, Ziqi Li, Stefanie Lumnitz, Taylor M. Oshan, Hu Shao, Levi John Wolf (2021). "The PySAL Ecosystem: Philosophy and Implementation." *Geographical Analysis.*. URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12276
+
 - Rey, Sergio Joseph, Renan Cortes, and Elijah Knaap. "Comparative Spatial Segregation Analytics." Spatial Demography (2021): 1-26. url: https://link.springer.com/article/10.1007/s40980-021-00075-w
 
 - Rey, S.; Han, S. Y.; Kang, W.; Knaap, E.; & Cortes, R. X. "A Visual Analytics System for Space–Time Dynamics of Regional Income Distributions Utilizing Animated Flow Maps and Rank-based Markov Chains." *Geographical Analysis* (2020). Special Issue. url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12239. doi: 10.1111/gean.12239
