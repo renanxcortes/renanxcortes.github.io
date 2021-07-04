@@ -18,6 +18,8 @@ description: |
 -->
 
 ### Main papers
+- Cortes, Renan Xavier, Adelar Fochezatto, and Paulo de Andrade Jacinto. "Daylight Saving Time and Homicides: Light Effect in Crimes of a Brazilian State." *Análise Econômica (UFRGS)* 39.79 (2021). url: https://seer.ufrgs.br/AnaliseEconomica/article/view/80052/63415
+
 - Sergio J. Rey, Luc Anselin, Pedro Amaral, Dani Arribas-Bel, Renan Xavier Cortes, James David Gaboardi, Wei Kang, Elijah Knaap, Ziqi Li, Stefanie Lumnitz, Taylor M. Oshan, Hu Shao, Levi John Wolf (2021). "The PySAL Ecosystem: Philosophy and Implementation." *Geographical Analysis.*. URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12276
 
 - Rey, Sergio Joseph, Renan Cortes, and Elijah Knaap. "Comparative Spatial Segregation Analytics." Spatial Demography (2021): 1-26. url: https://link.springer.com/article/10.1007/s40980-021-00075-w
@@ -35,6 +37,4 @@ description: |
 - Cortes, R. X., Martins, T. G., Prates, M. O., and Silva, B. A. (2017). Inference on dynamic models for non-Gaussian random fields using INLA. *Brazilian Journal of Probability and Statistics*, 31(1), 1-23.
 
 - de Oliveira, Lívio Luiz Soares, and Renan Xavier Cortes. "Faith and religious attendance in Brazil." *Rationality and Society* 28.3 (2016): 320-334.
-
-- CORTES, R. X.; FOCHEZATTO, A. ; JACINTO, P. A. . Daylight Saving Time and Homicides: light effect in crimes of a Brazilian state. *ANÁLISE ECONÔMICA (UFRGS)*, 2020. (Forthcoming)
 
