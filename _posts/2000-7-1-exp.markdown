@@ -1,14 +1,14 @@
 ---
 layout: default
-img: uniritter_logo.png
+img: pucrs_foto.jpg
 category: Experiences
-title: "Prof. of Data Analysis with R"
-description: 2018-2018
+title: "Invited Professor of Data Science and Artificial Intelligence Specialization"
+description: 2020-2020
 ---
 
 
-* __2018 – 2018__
-* UniRitter University, Porto Alegre, Brazil
-* Activities: professor of Data Analysis with the R in the Data Science and Big Data postgraduation course. The course comprised a Data Science workflow (importing data, cleaning data, wrangling, data exploring, modeling and visualizing), fundamentals of the language, the tidyverse approach, best practices of the language and how to develop reports and web
-applications.
-* Teaching material can be found clicking [**here**](https://github.com/renanxcortes/data_analysis_with_R_teaching_material){:target="_blank"}.
+* __2020 – 2020__
+* PUCRS University, Porto Alegre, Brazil
+* PUCRS Online is an innovative initiative of PUCRS that depicts many courses that mix professors from the university and names from the market. The objective is to give to the student a broader perspective of the field of each course.
+* As an invited professor of the PUCRS specialization online course of Data Science and Artificial Intelligence, I was responsible for the "Data Science and Artificial Intelligence Introduction" course from the market perspective. I focused on my personal Data Science experiences, use-cases, job market, state-of-art methodologies, daily workflow, and, at last, an end-to-end Data Science pipeline with hands-on experience in R, ranging from importing, tidying, wrangling, visualizing, and modeling.
+* The class was recorded and will be part of the course.
