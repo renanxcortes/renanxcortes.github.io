@@ -1,6 +1,6 @@
 ---
 layout: default
-img: sicredi.jpg
+img: sicredi_logo.png
 category: Experiences
 title: "Data Science Specialist"
 description: 2022-Current
