@@ -2,14 +2,14 @@
 layout: default
 img: sicredi_logo.png
 category: Experiences
-title: "Data Science Specialist"
+title: "Data Science Leader"
 description: 2022-Current
 ---
 
 
 * __2022 – Current__
 * Sicredi, Porto Alegre, Brazil
-* Working in the Data Science Corporate team in the financial sector.
+* Leading Data Science analytical teams in the CRM department.
 * Technologies used:
     + R, Python, Jupyter, Docker, Jenkins, Kafka, MongoDB, PostGres, Amazon Athena, MLFlow
 	+ H2O, Multi-Armed Bandits (ε-Greedy, Upper Confidence Bound, Thompson Sampling)
