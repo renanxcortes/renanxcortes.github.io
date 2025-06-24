@@ -11,4 +11,4 @@ description: 2020-2020
 * PUCRS University, Porto Alegre, Brazil
 * PUCRS Online is an innovative initiative of PUCRS that depicts many courses that mix professors from the university and names from the market. The objective is to give to the student a broader perspective of the field of each course.
 * As an invited professor of the PUCRS specialization online course of Data Science and Artificial Intelligence, I was responsible for the "Data Science and Artificial Intelligence Introduction" course from the market perspective. I focused on my personal Data Science experiences, use-cases, job market, state-of-art methodologies, daily workflow, and, at last, an end-to-end Data Science pipeline with hands-on experience in R, ranging from importing, tidying, wrangling, visualizing, and modeling.
-* The class was recorded and will be part of the course.
+* The class was recorded and is part of the course.
