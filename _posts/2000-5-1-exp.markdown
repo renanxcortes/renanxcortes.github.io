@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ufrgs_foto.jpg
+img: ufrgs_foto_short.jpg
 category: Experiences
 title: "Full-time Professor (Tenure Track)"
 description: 2022-2026
