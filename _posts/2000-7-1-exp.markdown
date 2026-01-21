@@ -1,14 +1,17 @@
 ---
 layout: default
-img: pucrs_foto.jpg
+img: Agi.jpg
 category: Experiences
-title: "Invited Professor of Data Science and Artificial Intelligence Specialization"
-description: 2020-2020
+title: "Data Science Corporate Leader"
+description: 2019-2022
 ---
 
 
-* __2020 – 2020__
-* PUCRS University, Porto Alegre, Brazil
-* PUCRS Online is an innovative initiative of PUCRS that depicts many courses that mix professors from the university and names from the market. The objective is to give to the student a broader perspective of the field of each course.
-* As an invited professor of the PUCRS specialization online course of Data Science and Artificial Intelligence, I was responsible for the "Data Science and Artificial Intelligence Introduction" course from the market perspective. I focused on my personal Data Science experiences, use-cases, job market, state-of-art methodologies, daily workflow, and, at last, an end-to-end Data Science pipeline with hands-on experience in R, ranging from importing, tidying, wrangling, visualizing, and modeling.
-* The class was recorded and is part of the course.
+* __2019 – 2022__
+* Agibank, Porto Alegre, Brazil
+* Working in the Data Science Corporate team in the financial sector.
+* Technologies used:
+    + Queries on-premise and in the Data Lake (Hive, Presto, Hue, Spark, SQL Server, Jupyter, PySpark)
+    + R, Rmarkdown, Shiny, tidyverse, htmlwidgets, ShinyProxy with LDAP authentication, H2O
+	+ Python, pandas, pyautogui, kafka-python, FastAPI, Selenium
+    + Docker, Amazon EC2, GitLab, Jenkins, Kubernetes, Rancher

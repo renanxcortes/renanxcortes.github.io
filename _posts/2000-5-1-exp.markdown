@@ -1,15 +1,12 @@
 ---
 layout: default
-img: sicredi_logo.png
+img: ufrgs_foto.jpg
 category: Experiences
-title: "Data Science Leader"
-description: 2022-Current
+title: "Full-time Professor (Tenure Track)"
+description: 2022-2026
 ---
 
 
-* __2022 – Current__
-* Sicredi, Porto Alegre, Brazil
-* Leading Data Science analytical teams in the CRM department.
-* Technologies used:
-    + R, Python, Jupyter, Docker, Jenkins, Kafka, MongoDB, PostGres, Amazon Athena, MLFlow
-	+ H2O, Multi-Armed Bandits (ε-Greedy, Upper Confidence Bound, Thompson Sampling)
+* __2026 – Current__
+* Federal University of Rio Grande do Sul, Porto Alegre, Brazil
+* Department of Statistics.
