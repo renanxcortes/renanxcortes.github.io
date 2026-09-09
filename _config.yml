@@ -23,6 +23,10 @@ gems:
 #   3rd Party Settings    #
 # ----------------------- #
 
+# Google Analytics 4 Measurement ID (e.g. G-XXXXXXXXXX).
+# Leave empty to disable tracking. Only loads on the production build.
+google_analytics: G-GTX9JCFWQ7
+
 social:
   - icon: github
     title: github
