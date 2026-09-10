@@ -31,12 +31,12 @@ social:
   - icon: github
     title: github
     url: https://github.com/renanxcortes
-  - icon: envelope-o
-    title: email
-    url: mailto:renanxcortes@gmail.com
   - icon: linkedin
     title: linkedin
     url: www.linkedin.com/in/📈-renan-xavier-cortes-a3583a33
+  - icon: envelope-o
+    title: email
+    url: mailto:renanxcortes@gmail.com
   - icon: graduation-cap
     title: teaching (PT-BR)
     url: https://renanxcortes.github.io/teaching/

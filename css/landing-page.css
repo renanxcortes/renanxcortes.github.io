@@ -70,6 +70,12 @@ h6 {
         font-size: 3em;
     }
 
+    ul.intro-social-buttons {
+        grid-template-columns: 1fr;
+        grid-gap: 0;
+        gap: 0;
+    }
+
     ul.intro-social-buttons > li {
         display: block;
         margin-bottom: 20px;
@@ -92,6 +98,26 @@ h6 {
 .social-click {
     position: relative;
     pointer-events: all
+}
+
+/* Landing-page social links as a 2x2 grid so they don't span the background photo */
+ul.intro-social-buttons {
+    display: inline-grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+    gap: 15px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul.intro-social-buttons > li {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+ul.intro-social-buttons > li > .btn {
+    width: 100%;
 }
 
 .network-name {
